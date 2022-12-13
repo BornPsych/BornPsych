@@ -2,7 +2,7 @@
 <h3 align="center">I am a Web developer skilled in MERN stack and a competitive programmer.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **my web development skills.**<br>- 🌱 I’m currently learning **React and AWS**<br>- 👯 I’m looking to collaborate on **some interesting projects according to my skill set.**<br>- 🤝 I’m looking for help with **exploring the open-source space.**<br>- 💬 Ask me about **Web development, backend, AWS, and Databases**<br>- 📫 How to reach me **engineer.yogeshshahi@gmail.com**<br>- 📄 Know about my experiences [http://bit.ly/yogeshshahi](http://bit.ly/yogeshshahi)<br>- ⚡ Fun fact **Can talk about DesiHipHop for eternity.**
+- 🔭 I’m currently working on **my web development skills.**<br><br>- 🌱 I’m currently learning **React and AWS**<br><br>- 👯 I’m looking to collaborate on **some interesting projects according to my skill set.**<br><br>- 🤝 I’m looking for help with **exploring the open-source space.**<br><br>- 💬 Ask me about **Web development, backend, AWS, and Databases**<br><br>- 📫 How to reach me **engineer.yogeshshahi@gmail.com**<br><br>- 📄 Know about my experiences [http://bit.ly/yogeshshahi](http://bit.ly/yogeshshahi)<br><br>- ⚡ Fun fact **Can talk about DesiHipHop for eternity.**
 
 
 ## 🌐 Socials:
