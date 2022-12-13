@@ -31,9 +31,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BornPsych&theme=darcula&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BornPsych&theme=darcula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BornPsych&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BornPsych&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BornPsych&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BornPsych&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ My belief
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
