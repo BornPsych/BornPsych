@@ -1,3 +1,5 @@
+
+<img src='https://github.com/BornPsych/BornPsych/blob/main/Banner.png' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm Yogesh Shahi</h1>
 <h3 align="center">I am a Web developer skilled in MERN stack and a competitive programmer.</h3>
 
