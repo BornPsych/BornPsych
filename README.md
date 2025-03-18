@@ -6,8 +6,8 @@
 - ⛓️ Full Stack and Blockchain dev
 - 🦀 Open to everything if it's Rusty<br>
 - 🌱 Learning about Etherum/Cosmos Protocol<br> 
-- 📫 How to reach me **yogeshshahi120@gmail.com** or [X](https://x.com/bornpsych_) or [LinkedIn](https://linkedin.com/in/yogesh-shahi)<br>
-- ⚡ Fun fact **Can talk about consensus for eternity.**
+- 📫 Reach me at **yogeshshahi120@gmail.com** or [X](https://x.com/bornpsych_) or [LinkedIn](https://linkedin.com/in/yogesh-shahi)<br>
+- ⚡ Fun fact **Can talk about blockchain consensus for eternity.**
 
 
 ### Stack:
