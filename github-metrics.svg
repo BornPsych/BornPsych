@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    10.1m added, 15.3m removed
+                                    10.2m added, 15.4m removed
                                 </div>
                             </section>
                             <section>
@@ -175,14 +175,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.5002668258805" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="211.5002668258805" y="0" width="172.91790957982587" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="384.4181764057064" y="0" width="61.406764823321794" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.8249412290282" y="0" width="9.289450447851811" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="455.11439167688" y="0" width="1.8977076486866749" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="457.0120993255667" y="0" width="1.5460399554436468" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.5581392810103" y="0" width="0.9874623326250167" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.5456016136353" y="0" width="0.45439838636471463" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.46095255798363" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="211.46095255798363" y="0" width="172.88576710963704" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="384.3467196676207" y="0" width="61.395350360166866" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.7420700277876" y="0" width="9.287723698524246" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="455.0297937263118" y="0" width="1.8973548974206367" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="456.9271486237325" y="0" width="1.5457525731632378" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.4729011968957" y="0" width="0.9872787803332608" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.46017997722896" y="0" width="0.5398200227710663" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -229,9 +229,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Python
+                        Shell
                     </div>
                 </div>
             </section>
